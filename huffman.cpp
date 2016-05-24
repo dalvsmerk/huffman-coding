@@ -168,27 +168,3 @@ bitset encode_to_huffman(std::string str)
 	
 	return code;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
