@@ -1,0 +1,6 @@
+/debug/*
+huffman.pro.user
+*.exe
+*.o
+Makefile
+Makefile.*
